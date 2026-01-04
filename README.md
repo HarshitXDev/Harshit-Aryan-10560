@@ -24,6 +24,7 @@ The project uses:
 * **Functions** to handles for taking orders and calculating the bill
 * **Loops** to display the menu and compute the total amount
 
+
 The program follows a step-by-step approach similar to real-world ordering systems but in a simplified form suitable for beginners.
 
 ---
@@ -56,6 +57,14 @@ This project can be enhanced in many ways in the future, such as:
 With these upgrades, the project can evolve from a basic simulation into a more realistic food ordering system.
 
 ---
+<img width="1808" height="819" alt="Screenshot 2026-01-04 190342" src="https://github.com/user-attachments/assets/ad26965f-6105-4476-90bc-be256f212cde" />
+
+
+Git Push Manual
+
+<img width="1800" height="1086" alt="Screenshot 2026-01-04 190844" src="https://github.com/user-attachments/assets/ccdc383b-7d20-4e72-8a61-401674c59cb7" />
+
+
 
 ## Conclusion
 
